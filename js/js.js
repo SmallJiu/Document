@@ -1,6 +1,6 @@
 window.$docsify = {
     name: 'small_jiu',
-    repo: '',
+    repo: 'https://github.com/SmallJiu',
     loadNavbar: true,
     loadSidebar: true,
     subMaxLevel: 99999
