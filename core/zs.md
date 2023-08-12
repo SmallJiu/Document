@@ -2,9 +2,9 @@
 方法格式为 ' 返回类型 方法名 (方法参数) '， 返回类型前有' static '则为静态方法。
 
 ## core.Text
-* 所属Java类[cat.jiu.core.api.element.IText]()
+* 所属Java类：[cat.jiu.core.api.element.IText](https://github.com/SmallJiu/JiuCore/blob/1.12.2/src/main/java/cat/jiu/core/api/element/IText.java)
 * 实现
-  * [cat.jiu.core.util.element.Text]()
+  * [cat.jiu.core.util.element.Text](https://github.com/SmallJiu/JiuCore/blob/1.12.2/src/main/java/cat/jiu/core/util/element/Text.java)
 * 方法
   * String text() # 获取当前文本
   * core.Text text(String) # 设置当前文本
@@ -24,10 +24,10 @@
   * static core.Text from(String, Object[]) # 新建对象
 
 ## core.Timer
-* 所属Java类[cat.jiu.core.api.ITimer]()
+* 所属Java类：[cat.jiu.core.api.ITimer](https://github.com/SmallJiu/JiuCore/blob/1.12.2/src/main/java/cat/jiu/core/api/ITimer.java)
 * 实现
-  * [cat.jiu.core.util.timer.Timer]() 传统的计时器，需要调用updata()更新计时器
-  * [cat.jiu.core.util.timer.MillisTimer]() 使用时间戳的计时器，调用start()开始计时
+  * [cat.jiu.core.util.timer.Timer](https://github.com/SmallJiu/JiuCore/blob/1.12.2/src/main/java/cat/jiu/core/util/timer/Timer.java) 传统的计时器，需要调用updata()更新计时器
+  * [cat.jiu.core.util.timer.MillisTimer](https://github.com/SmallJiu/JiuCore/blob/1.12.2/src/main/java/cat/jiu/core/util/timer/MillisTimer.java) 使用时间戳的计时器，调用start()开始计时
 * 方法
   * V format(long) # 格式化计时器的时间单位
   * long day() # 获取计时器的 天数
@@ -77,7 +77,7 @@
 
 
 ## core.Pos
-* 所属Java类[cat.jiu.core.api.element.Pos]()
+* 所属Java类：[cat.jiu.core.api.element.Pos](https://github.com/SmallJiu/JiuCore/blob/1.12.2/src/main/java/cat/jiu/core/api/element/Pos.java)
 * Property变量
   * x # x轴
   * y # y轴
@@ -87,9 +87,9 @@
 
 
 ## core.Sound
-* 所属Java类[cat.jiu.core.api.element.ISound]()
+* 所属Java类：[cat.jiu.core.api.element.ISound](https://github.com/SmallJiu/JiuCore/blob/1.12.2/src/main/java/cat/jiu/core/api/element/ISound.java)
 * 实现
-  * [cat.jiu.core.util.element.Sound]()
+  * [cat.jiu.core.util.element.Sound](https://github.com/SmallJiu/JiuCore/blob/1.12.2/src/main/java/cat/jiu/core/util/element/Sound.java)
 * 方法
   * String sound() # 获取音频ID
   * core.Sound sound(String) # 设置音频
@@ -127,7 +127,7 @@
 
 
 ## core.sound.Builder
-* 所属Java类[cat.jiu.core.api.element.ISound.Builder]()
+* 所属Java类：[cat.jiu.core.api.element.ISound.Builder](https://github.com/SmallJiu/JiuCore/blob/1.12.2/src/main/java/cat/jiu/core/api/element/ISound.java)
 * 方法
   * Builder sound(String) # 设置音频ID
   * Builder volume(float) # 设置音频volume
@@ -141,7 +141,7 @@
 
 
 ## core.Image
-* 所属Java类[cat.jiu.core.api.element.IImage]()
+* 所属Java类：[cat.jiu.core.api.element.IImage](https://github.com/SmallJiu/JiuCore/blob/1.12.2/src/main/java/cat/jiu/core/api/element/IImage.java)
 * 方法
   * V startTiming() # 开始切换图片，仅在有多张图片时有效
   * int[] order() # 获取图片展示顺序
@@ -164,7 +164,7 @@
   * core.Image copy() # 复制对象
 
 ## core.image.Builder
-* 所属Java类[cat.jiu.core.api.element.IImage.Builder]()
+* 所属Java类：[cat.jiu.core.api.element.IImage.Builder](https://github.com/SmallJiu/JiuCore/blob/1.12.2/src/main/java/cat/jiu/core/api/element/IImage.java)
 * 方法
   * Builder image(String) # 添加图片
   * Builder order(int[]) # 设置图片展示顺序

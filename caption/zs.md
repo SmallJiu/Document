@@ -2,7 +2,7 @@
 方法格式为 ' 返回类型 方法名 (方法参数) '， 返回类型前有' static '则为静态方法
 
 ## caption.API
-* 所属Java类[cat.jiu.caption.CaptionAPI](https://github.com/SmallJiu/Caption/blob/1.12.2/src/main/java/cat/jiu/caption/CaptionAPI.java)
+* 所属Java类：[cat.jiu.caption.CaptionAPI](https://github.com/SmallJiu/Caption/blob/1.12.2/src/main/java/cat/jiu/caption/CaptionAPI.java)
 * 方法
   * Void add(Player, Caption)# 展示一个字幕，这会在客户端与服务端都发送一次。
 
@@ -11,7 +11,7 @@
 
 
 ## caption.Caption
-* 所属Java类[cat.jiu.caption.iface.ICaption](https://github.com/SmallJiu/Caption/blob/1.12.2/src/main/java/cat/jiu/caption/iface/ICaption.java)
+* 所属Java类：[cat.jiu.caption.iface.ICaption](https://github.com/SmallJiu/Caption/blob/1.12.2/src/main/java/cat/jiu/caption/iface/ICaption.java)
 * 实现
   * [cat.jiu.caption.element](https://github.com/SmallJiu/Caption/blob/1.12.2/src/main/java/cat/jiu/caption/element/Caption.java)
 * 方法
@@ -40,7 +40,7 @@
 
 
 ## caption.Builder
-* 所属Java类[cat.jiu.caption.util.CaptionBuilder](https://github.com/SmallJiu/Caption/blob/1.12.2/src/main/java/cat/jiu/caption/util/CaptionBuilder.java)
+* 所属Java类：[cat.jiu.caption.util.CaptionBuilder](https://github.com/SmallJiu/Caption/blob/1.12.2/src/main/java/cat/jiu/caption/util/CaptionBuilder.java)
 * 方法
   * static Builder from() # 新建一个Builder。
   * Builder type(int) #设置所处层，默认 '0'。
