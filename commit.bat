@@ -23,5 +23,3 @@ git commit -m "%msg%"
 echo =============
 git log --pretty=oneline
 echo =============
-
-pause
