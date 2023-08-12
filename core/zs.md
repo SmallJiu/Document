@@ -1,4 +1,4 @@
-# Jiucore支持的ZenScript用法
+# JiuCore支持的ZenScript用法
 方法格式为 ' 返回类型 方法名 (方法参数) '， 返回类型前有' static '则为静态方法。
 
 ## core.Text
@@ -91,7 +91,7 @@
 * 实现
   * [cat.jiu.core.util.element.Sound](https://github.com/SmallJiu/JiuCore/blob/1.12.2/src/main/java/cat/jiu/core/util/element/Sound.java)
 * 方法
-  * String sound() # 获取音频ID
+  * String sound() # 获取音频ID[commit.bat](..%2Fcommit.bat)
   * core.Sound sound(String) # 设置音频
   * core.Sound sound(int) # 设置音频
   * float volume() # 获取音频的volume
