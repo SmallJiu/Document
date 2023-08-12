@@ -18,11 +18,8 @@ if sec LSS 10 sec+=1
 set msg=%y%-%month%-%day%-%hour%-%min%-%sec%
 set "msg=%msg: =%"
 title %msg%
-pause
 git add .
-pause
 git commit -m "%msg%"
-pause
 echo =============
 git log --pretty=oneline
 echo =============
