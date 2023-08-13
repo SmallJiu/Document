@@ -35,7 +35,7 @@
           * [物品单选项任务](mods/Dialog/zs/tasks/dialog.option.task.radio_button.Item.md)
           * [多选项选择任务](mods/Dialog/zs/tasks/dialog.option.task.checkbox.Check.md)
           * [多选项提交任务](mods/Dialog/zs/tasks/dialog.option.task.checkbox.Confirm.md)
-          * [物品多选先选择任务](mods/Dialog/zs/tasks/dialog.option.task.checkbox.item.Check.md)
+          * [物品多选项选择任务](mods/Dialog/zs/tasks/dialog.option.task.checkbox.item.Check.md)
           * [物品多选提交任务](mods/Dialog/zs/tasks/dialog.option.task.checkbox.item.Confirm.md)
           * [多标题项改变标题任务](mods/Dialog/zs/tasks/dialog.option.task.multi_title.Change.md)
           * [多标题项关闭任务](mods/Dialog/zs/tasks/dialog.option.task.multi_title.Close.md)
