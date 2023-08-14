@@ -1,5 +1,6 @@
 * ZenScript类：dialog.api.Builder
 * Java类：[cat.jiu.dialog.utils.DialogBuilder]()
+* 作用：用于链式调用的创建一个对话框
 * 方法
     * Builder option(dialog.Data) # 添加选项到对话框
     * Builder id(String) # 设置对话框ID

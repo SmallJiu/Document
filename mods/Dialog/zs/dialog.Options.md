@@ -1,6 +1,6 @@
 * ZenScript类：dialog.Options
 * Java类：[cat.jiu.dialog.element.DialogOption]()
-* 作用：
+* 作用：存储了一些已经被注册的对话框选项。zs请调用register静态方法以注册一个自己的对话框选项。
 * 静态常量
     * button 按钮
     * text 文本输入

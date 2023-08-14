@@ -1,6 +1,6 @@
 * ZenScript类：dialog.Draw
 * Java类：[cat.jiu.dialog.element.OptionDrawUnit]()
-* 作用：
+* 作用：对话框选项的绘制单元，由数据单元提供所需数据。类内的方法由[cat.jiu.dialog.gui.GuiDialog]()调用。
 * 方法
     * List<String> getOptionText(dialog.Dialog option, dialog.dimension.Dialog dialogDimension, FontRenderer fr) # 仅客户端
     * V init(GuiDialog gui, FontRenderer fr) # 仅客户端
