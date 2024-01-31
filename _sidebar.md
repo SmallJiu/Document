@@ -7,7 +7,7 @@
     * [图片构建器](mods/JiuCore/zs/core.image.Builder.md)
     * [音频](mods/JiuCore/zs/core.Sound.md)
     * [音频构建器](mods/JiuCore/zs/core.sound.Builder.md)
-* [Email](mods/Email/README.md)
+* [Inbox(原Email)](mods/Inbox/README.md)
 * [Dialog](mods/Dialog/README.md)
     * ZenScript
         * [API](mods/Dialog/zs/dialog.API.md)

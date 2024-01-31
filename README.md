@@ -16,11 +16,11 @@
     * 支持的MCVersion：1.12.2
     * 链接：[github](https://github.com/SmallJiu/JiuCore) [mcmod](https://www.mcmod.cn/class/4932.html)
     * 下载：[github](https://github.com/SmallJiu/JiuCore/releases) [mcmod](https://www.mcmod.cn/download/4932.html)
-  * Email
+  * Inbox(原Email)
     * 这是什么：添加了一个邮箱系统，属于三件套之一。
     * 支持的MCVersion：1.20.1，1.16.5，1.12.2
-    * 链接：[github](https://github.com/SmallJiu/Email) [mcmod](https://www.mcmod.cn/class/7649.html)
-    * 下载：[github](https://github.com/SmallJiu/Email/releases) [mcmod](https://www.mcmod.cn/download/7649.html)
+    * 链接：[github](https://github.com/SmallJiu/Inbox) [mcmod](https://www.mcmod.cn/class/7649.html)
+    * 下载：[github](https://github.com/SmallJiu/Inbox/releases) [mcmod](https://www.mcmod.cn/download/7649.html)
   * Dialog
     * 这是什么：添加了一个对话框系统，属于三件套之一。
     * 支持的MCVersion：1.12.2
