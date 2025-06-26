@@ -8,6 +8,7 @@
     * [音频](mods/JiuCore/zs/core.Sound.md)
     * [音频构建器](mods/JiuCore/zs/core.sound.Builder.md)
 * [Inbox(原Email)](mods/Inbox/README.md)
+  * [邮件存储结构](mods/Inbox/storage.md)
 * [Dialog](mods/Dialog/README.md)
     * ZenScript
         * [API](mods/Dialog/zs/dialog.API.md)
