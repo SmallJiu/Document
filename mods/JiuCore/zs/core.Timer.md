@@ -4,7 +4,7 @@
     * [cat.jiu.core.util.timer.Timer](https://github.com/SmallJiu/JiuCore/blob/1.12.2/src/main/java/cat/jiu/core/util/timer/Timer.java) 传统的计时器，需要调用updata()更新计时器
     * [cat.jiu.core.util.timer.MillisTimer](https://github.com/SmallJiu/JiuCore/blob/1.12.2/src/main/java/cat/jiu/core/util/timer/MillisTimer.java) 使用时间戳的计时器，调用start()开始计时
 * 方法
-    * V format(long) # 格式化计时器的时间单位
+    * void format(long) # 格式化计时器的时间单位
     * long day() # 获取计时器的 天数
     * core.Timer day(long) # 设置计时器的 天数
     * long hour() # 获取计时器的 小时数
@@ -37,8 +37,8 @@
     * boolean equals() #
     * boolean isStarted() # 是否已开始计时
     * core.Timer start() # 开始计时
-    * V updata(int) # 更新计时器，参数：减去的Tick数
-    * V updata() # 更新计时器，减去 1 Tick
+    * void updata(int) # 更新计时器，参数：减去的Tick数
+    * void updata() # 更新计时器，减去 1 Tick
     * static String msTimestamp(long) #
     * static StringBuilder format() #
 * 创建方法

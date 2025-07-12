@@ -1,14 +1,24 @@
 * [JiuCore](mods/JiuCore/README.md)
+  * 文件结构
+    * [物品](mods/JiuCore/storage/itemstack.md)
+    * [文本](mods/JiuCore/storage/text.md)
+    * [声音](mods/JiuCore/storage/sound.md)
+    * [图片](mods/JiuCore/storage/image.md)
+    * [计时器](mods/JiuCore/storage/timer.md)
   * ZenScript
     * [文本](mods/JiuCore/zs/core.Text.md)
-    * [计时器](mods/JiuCore/zs/core.Timer.md)
-    * [位置](mods/JiuCore/zs/core.Pos.md)
+    * [声音](mods/JiuCore/zs/core.Sound.md)
+    * [声音构建器](mods/JiuCore/zs/core.sound.Builder.md)
     * [图片](mods/JiuCore/zs/core.Image.md)
     * [图片构建器](mods/JiuCore/zs/core.image.Builder.md)
-    * [音频](mods/JiuCore/zs/core.Sound.md)
-    * [音频构建器](mods/JiuCore/zs/core.sound.Builder.md)
+    * [计时器](mods/JiuCore/zs/core.Timer.md)
+    * [位置](mods/JiuCore/zs/core.Pos.md)
+
+
 * [Inbox(原Email)](mods/Inbox/README.md)
   * [邮件存储结构](mods/Inbox/storage.md)
+
+
 * [Dialog](mods/Dialog/README.md)
     * ZenScript
         * [API](mods/Dialog/zs/dialog.API.md)
@@ -45,9 +55,12 @@
         * [选项类型](mods/Dialog/zs/dialog.Type.md)
         * [已注册的选项](mods/Dialog/zs/dialog.Options.md)
 
+
 * [Caption](mods/Caption/README.md)
   * ZenScript
     * [API](mods/Caption/zs/caption.API.md)
     * [字幕](mods/Caption/zs/caption.Caption.md)
     * [字幕构建器](mods/Caption/zs/caption.Builder.md)
+
+
 * [MultipleCompressedStuffs](mods/MultipleCompressedStuffs/README.md)
