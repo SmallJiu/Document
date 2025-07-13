@@ -63,4 +63,4 @@
     * [字幕构建器](mods/Caption/zs/caption.Builder.md)
 
 
-* [MultipleCompressedStuffs](mods/MultipleCompressedStuffs/README.md)
+* [神话or修仙](other/神话&修仙.md)
