@@ -1,3 +1,6 @@
+此为邮箱的存储结构。如果你不懂，请勿轻易改动。
+
+示例邮件 [DevEmail](https://github.com/SmallJiu/Inbox/blob/1.20.1/src/main/java/cat/jiu/email/util/SendDevEmail.java#L50)
 ```json5
 {
   "dev": true, // 是否已发送初始邮件，可删除此项以重新获取初始邮件
@@ -117,7 +120,31 @@
         "inbox.dev_message.10": null,
         "inbox.dev_message.11": null,
         "inbox.dev_message.12": null,
-        "inbox.dev_message.13": null
+        "inbox.dev_message.13": null,
+        "%s%s%s": [
+          // Type '0' is core text, class:  cat.jiu.core.api.element.IText
+          {
+            "text": "inbox.dev_message.title",
+            "type": 0
+          },
+          // Type '1' is minecraft text, class: net.minecraft.network.chat.Component
+          {
+            "translate": "info.inbox.main.from",
+            "with": [
+              "981314"
+            ],
+            "type": 1
+          },
+          {
+            "text": "9856168549616596416548",
+            "type": 1
+          },
+          // Type '2' is normal text, it just a string
+          {
+            "parameter": "99999",
+            "type": 2
+          }
+        ]
       }
     }
   }
