@@ -8,7 +8,6 @@
   * email:attachment/attribute: 实体属性
 
 ```java
-
 // 注册附件
 IAttachment.REGISTRY.register(AttachmentCustom.ID, AttachmentCustom::new, AttachmentCustom::new);
 
@@ -106,5 +105,4 @@ public class AttachmentCustom implements IAttachment {
         event.setHeight(18); // 附件应渲染的高度
     }
 }
-
 ```

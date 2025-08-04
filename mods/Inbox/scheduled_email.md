@@ -7,7 +7,6 @@
 
 * 此为使用java添加定时邮件的例子
 ```java
-
 ScheduledEmail.addScheduledEmail(
         new ScheduledEmail()
                 // 邮件文件，需要位于 游戏目录/configs/jiu/inbox/data/emails/ 
@@ -27,12 +26,10 @@ ScheduledEmail.addScheduledEmail(
                 .addCustomAddressee("player1")
                 .addCustomAddressee("player2")
         , true); // 是否保存到文件，不保存则会在 正常关闭服务器/正常退出存档 时自动保存
-
 ```
 
 - 此为json文件的结构
 ```json5
-
 [
   {
     "id": 1754327175328, // id，使用gui生成的则不用管，但如果是手动编辑的则不允许重复
@@ -63,5 +60,4 @@ ScheduledEmail.addScheduledEmail(
     ]
   }
 ]
-
 ```
