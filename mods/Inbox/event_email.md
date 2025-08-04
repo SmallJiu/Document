@@ -1,6 +1,7 @@
 * 订阅事件的json文件：游戏目录/configs/jiu/inbox/data/event_emails.json
 
 * 如需自定义事件，请查看 [EventEmail](https://github.com/SmallJiu/Inbox/blob/1.20.1/src/main/java/cat/jiu/email/element/EventEmail.java)
+
 ```java
 
 ResourceLocation PLAYER_DEATH = EventEmail.registerEvent("modid", "email/event/player/death");
