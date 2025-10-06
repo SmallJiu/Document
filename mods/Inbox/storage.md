@@ -23,6 +23,10 @@
       "receive": true, // 是否已领取
       "deletable": true, // 是否可删除
       "attachments": [ // 邮件所有附件
+		{ // add on 1.20.1-1.1.4
+			"undyingCount": 9, // 不死之力数量
+			"id": "email:attachment/undying" // 不死之力附件ID
+		},
         { // 此附件可与 email:attachment/attribute 共存并合并
           "health": 2.0, // 最大生命值
           "temp": false, // 是否是一次性的，具体为死亡后移除。 add on 1.20.1-1.1.3-a2
