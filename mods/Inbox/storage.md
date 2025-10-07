@@ -3,8 +3,9 @@
 示例邮件 [DevEmail](https://github.com/SmallJiu/Inbox/blob/1.20.1/src/main/java/cat/jiu/email/util/SendDevEmail.java#L50)
 ```json5
 {
-  "dev": true, // 是否已发送初始邮件，可删除此项以重新获取初始邮件
+  "dev": true, // 是否已发送初始邮件，可使用指令重新发送初始邮件：/email send @p default
   "historySize": 8, // 历史邮件个数
+  "sendCooling": 1759779530060, // 邮件发送冷却的时间戳
   "emails": { // 存储的邮件
     "1": { // 邮件ID
       "title": { // 标题
@@ -12,8 +13,8 @@
         // "args": [ "arg1", "arg4", "arg3"] // 额外参数
         "parameters": [ "arg1", "arg4", "arg3"] // 额外参数
       },
-      "time": 1746538669004, // 邮件发送时间戳
-      "expiration": 864000008999, // 邮件过期时间戳
+      "time": 1746538669004, // 邮件发送的时间戳
+      "expiration": 864000008999, // 邮件过期的时间戳
       "sender": { // 发送者
         "text": "?????", // 文本
         // "args": [ "arg1", "arg4", "arg3"] // 额外参数
