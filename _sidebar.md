@@ -75,4 +75,7 @@
     * [字幕构建器](mods/Caption/zs/caption.Builder.md)
 
 
-* [神话or修仙](other/神话&修仙.md)
+* 玄幻
+  * [神话or修仙](other/神话&修仙.md)
+  * [真仙篆字](other/真仙篆字.md)
+
