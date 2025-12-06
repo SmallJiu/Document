@@ -7,6 +7,7 @@
   * email:attachment/effect: 效果/Buff/Debuff
   * email:attachment/attribute: 实体属性
   * email:attachment/undying: 不死之力，类似于不死图腾
+  * email:attachment/uwaypoint: 路径点，需安装 Xaero's Minimap 或 FTBChunk 或 JourneyMap
 
 ## 注册附件
 ```java
