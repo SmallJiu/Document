@@ -24,6 +24,31 @@
       "receive": true, // 是否已领取
       "deletable": true, // 是否可删除
       "attachments": [ // 邮件所有附件
+	  
+		{ // add on 1.20.1-1.2.1
+			"defaultMapMod": "xaerominimap", // 默认使用的地图mod，如果不存在且有多个地图mod时，则会打开选择地图mod的界面来选择mod以生成路径点
+			"waypoints": {
+				"minecraft:overworld": [ // 路径点所处世界
+					{
+						"x": 3,
+						"y": 0,
+						"z": 0,
+						"name": "保险库", // 路径点名称，类似于 "保险库 (A)" 中的 "保险库"
+						"extraName": "A", // 路径点名称，类似于 "保险库 (A)" 中的 "A"
+						"color": "a" // 路径点颜色，请在 原版的颜色代码 中选择，不要添加 §
+					}
+				],
+				"minecraft:the_end": { // 也可这样添加单个路径点，但最终存储到邮箱内的格式则是上面这种
+					"x": 3,
+					"y": 0,
+					"z": 0,
+					"name": "保险库", // 路径点名称，类似于 "保险库 (B)" 中的 "保险库"
+					"extraName": "B", // 路径点名称，类似于 "保险库 (B)" 中的 "B"
+					"color": "d" // 路径点颜色，请在 原版的颜色代码 中选择，不要添加 §
+				}
+			},
+			"id": "email:attachment/waypoint" // 路径点附件ID
+		},
 		{ // add on 1.20.1-1.1.4
 			"undyingCount": 9, // 不死之力数量
 			"id": "email:attachment/undying" // 不死之力附件ID
