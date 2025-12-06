@@ -1,8 +1,10 @@
 * 定时邮件的json文件：游戏目录/configs/jiu/inbox/data/scheduled_emails.json
 
 * 如需自行添加定时邮件，请按以下方法自行添加
-  * 游戏内: 邮箱主界面 > 右下角菜单 > 定时邮件 > 添加 > 左边选择一封邮件 > 右下角生成 > 修改间隔、收件人、备注
+  * 使用UI: 邮箱主界面 > 右下角菜单 > 定时邮件 > 添加 > 左边选择一封邮件 > 右下角生成 > 修改间隔、收件人、备注
+	* 在此前，请提前生成一个邮件文件在此目录：'游戏目录/configs/jiu/inbox/data/emails/'
   * 使用java: [cat.jiu.email.element.ScheduledEmail](https://github.com/SmallJiu/Inbox/blob/1.20.1/src/main/java/cat/jiu/email/element/ScheduledEmail.java)
+  * 修改文件：见下文，后执行此指令以重载：/email scheduled reload
 
 
 * 此为使用java添加定时邮件的例子
