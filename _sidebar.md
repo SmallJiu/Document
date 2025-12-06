@@ -1,11 +1,3 @@
-<details>
-<summary>JiuCore</summary>
-    <details>
-        <summary>文件结构</summary>
-        111
-    </details>
-</details>
-
 * [JiuCore](mods/JiuCore/README.md)
   * 文件结构
     * [物品](mods/JiuCore/storage/itemstack.md)
