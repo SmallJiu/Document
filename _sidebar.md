@@ -16,6 +16,7 @@
 
 
 * [Inbox(原Email)](mods/Inbox/README.md)
+  * [如何使用](mods/Inbox/usage.md)
   * [存储位置](mods/Inbox/storage_paths.md)
   * [事件邮件](mods/Inbox/event_email.md)
   * [定时邮件](mods/Inbox/scheduled_email.md)
