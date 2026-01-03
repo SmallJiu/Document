@@ -72,3 +72,6 @@
   * [神话or修仙](other/神话&修仙.md)
   * [真仙篆字](other/真仙篆字.md)
 
+
+* Spallation
+  * [世界设定手册](other/Spallation/世界观.md) 
