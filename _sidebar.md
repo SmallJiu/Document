@@ -75,3 +75,7 @@
 
 * Spallation
   * [世界设定手册](other/Spallation/世界观.md) 
+
+
+* 一个小说世界观
+  * [我把自己捏成白毛萝莉](other/我把自己捏成白毛萝莉.md)
