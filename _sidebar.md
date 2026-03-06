@@ -76,6 +76,7 @@
 * Spallation
   * [世界设定手册](other/Spallation/世界观.md) 
   * [角色创建指南](other/Spallation/角色创建.md)
+  * [武器列表](other/Spallation/武器列表.md)
 
 
 * 一个小说世界观
