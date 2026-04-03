@@ -1,3 +1,4 @@
+* [今天吃什么?](https://cook.yunyoujun.cn/)
 * [JiuCore](mods/JiuCore/README.md)
   * 文件结构
     * [物品](mods/JiuCore/storage/itemstack.md)
@@ -77,6 +78,20 @@
   * [世界设定手册](other/Spallation/世界观.md) 
   * [角色创建指南](other/Spallation/角色创建.md)
   * [武器列表](other/Spallation/武器列表.md)
+  * **另请参阅**
+    * **各个种族**
+      * [物种](other/Spallation/另请参阅/物种.md)
+      * [觉醒的星辰-星裔](other/Spallation/另请参阅/觉醒的星辰-星裔.md)
+      * [易碎之美-雪晶族](other/Spallation/另请参阅/易碎之美-雪晶族.md)
+      * [智慧机械-赛凡特](other/Spallation/另请参阅/智慧机械-赛凡特.md)
+      * [熵能追逐者-饮熵族](other/Spallation/另请参阅/熵能追逐者-饮熵族.md)
+    * [人类帝国-总体形象](other/Spallation/另请参阅/人类帝国-总体形象.md)
+    * [人类飞升职业](other/Spallation/另请参阅/人类飞升职业.md)
+    * [屠龙征途](other/Spallation/另请参阅/屠龙征途.md)
+    * [帝国海军新型舰船建造清单](other/Spallation/另请参阅/帝国海军新型舰船建造清单.md)
+    * [恶魔与主神](other/Spallation/另请参阅/恶魔与主神.md)
+    * [维持者陆军现役外骨骼列表](other/Spallation/另请参阅/维持者陆军现役外骨骼列表.md)
+    * [致瓦尔良](other/Spallation/另请参阅/致瓦尔良.md)
 
 
 * 一个小说世界观
