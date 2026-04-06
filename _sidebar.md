@@ -85,6 +85,7 @@
       * [易碎之美-雪晶族](other/Spallation/另请参阅/易碎之美-雪晶族.md)
       * [智慧机械-赛凡特](other/Spallation/另请参阅/智慧机械-赛凡特.md)
       * [熵能追逐者-饮熵族](other/Spallation/另请参阅/熵能追逐者-饮熵族.md)
+    * [与起源相会](other/Spallation/另请参阅/与起源相会.md)
     * [人类帝国-总体形象](other/Spallation/另请参阅/人类帝国-总体形象.md)
     * [人类飞升职业](other/Spallation/另请参阅/人类飞升职业.md)
     * [屠龙征途](other/Spallation/另请参阅/屠龙征途.md)
