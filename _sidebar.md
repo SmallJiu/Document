@@ -83,7 +83,7 @@
       * [物种](other/Spallation/另请参阅/物种.md)
       * [觉醒的星辰-星裔](other/Spallation/另请参阅/觉醒的星辰-星裔.md)
       * [易碎之美-雪晶族](other/Spallation/另请参阅/易碎之美-雪晶族.md)
-      * [智慧机械-赛凡特](other/Spallation/另请参阅/智慧机械-赛凡特.md)[install.bat](install.bat)
+      * [智慧机械-赛凡特](other/Spallation/另请参阅/智慧机械-赛凡特.md)
       * [熵能追逐者-饮熵族](other/Spallation/另请参阅/熵能追逐者-饮熵族.md)
     * **重要历史节点**
       * **人类**
