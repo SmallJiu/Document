@@ -81,10 +81,11 @@
   * **另请参阅**
     * **各个种族**
       * [物种](other/Spallation/另请参阅/物种.md)
-      * [觉醒的星辰-星裔](other/Spallation/另请参阅/觉醒的星辰-星裔.md)
+      * [仰望星辰-星之子](other/Spallation/另请参阅/仰望星辰-星之子.md)
       * [易碎之美-雪晶族](other/Spallation/另请参阅/易碎之美-雪晶族.md)
       * [智慧机械-赛凡特](other/Spallation/另请参阅/智慧机械-赛凡特.md)
-      * [熵能追逐者-饮熵族](other/Spallation/另请参阅/熵能追逐者-饮熵族.md)
+      * [追逐熵能-饮熵族](other/Spallation/另请参阅/追逐熵能-饮熵族.md)
+      * [永恒芬芳-盖伊兰](other/Spallation/另请参阅/永恒芬芳-盖伊兰.md)
     * **重要历史节点**
       * **人类**
         * **天国花园**
