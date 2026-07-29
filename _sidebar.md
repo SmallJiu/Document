@@ -78,6 +78,7 @@
   * [世界设定手册](other/Spallation/世界观.md) 
   * [角色创建指南](other/Spallation/角色创建.md)
   * [武器列表](other/Spallation/武器列表.md)
+  * [修炼体系](other/Spallation/修炼体系.md)
   * **另请参阅**
     * **各个种族**
       * [物种](other/Spallation/另请参阅/物种.md)
